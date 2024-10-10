@@ -52,4 +52,21 @@ Change the file name and you code is ready for run.
 
 ## Customized usage with qr-code.py
 
+### Place you data
+
+Firt, change the data between the quotes.
+`qr.add_data('place-your-data-here')`
+
+### Customizing color 
+
+You can change the qr code color placing the color name or RGB code.
+
+```
+img = qr.make_image(fill_color="black", back_color="white")
+
+img = qr.make_image(back_color=(255, 195, 235), fill_color=(55, 95, 35))
+```
+Choose one and delete (or comment) the other.
+
+
 You can find more information by clicking [here](https://github.com/lincolnloop/python-qrcode).
