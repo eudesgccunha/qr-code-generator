@@ -1,7 +1,7 @@
 # QR code generator with python
 
-The 'qr-code.py' archive was forked of [lincolnloop repository](https://github.com/lincolnloop/python-qrcode). 
-On the other hand, the 'qrcode.py' was made from previous testing on qrcode library.
+The 'qrcode.py' was made from previous testing on qrcode library.On the other hand, the 'qr-code.py' archive was forked of [lincolnloop repository](https://github.com/lincolnloop/python-qrcode).
+ 
 
 ## Simple usage with qrcode.py
 
@@ -40,3 +40,4 @@ Finally, you need to change the file name and you code is ready for run.
 
 ## Customized usage with qr-code.py
 
+You can find more info clicking [here](https://github.com/lincolnloop/python-qrcode).
