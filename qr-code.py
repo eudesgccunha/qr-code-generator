@@ -4,7 +4,7 @@ pip install "qrcode[pil]"
 #%% #simple generator
 
 import qrcode
-img = qrcode.make('data')
+img = qrcode.make('place-your-data-here')
 type(img)  # qrcode.image.pil.PilImage
 img.save("file.png")
 
