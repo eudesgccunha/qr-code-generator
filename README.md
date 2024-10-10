@@ -36,8 +36,20 @@ Finally, you need to change the file name and you code is ready for run.
 
 ## Simple usage with qr-code.py
 
+### Place you data
 
+To generate your qrcode, download and open the 'qr-code.py' archive. 
+
+Next, you need change the data between the quotes:<br>
+`img = qrcode.make('place-your-data-here')`
+
+Data can be an url from website, number or other type.
+
+### Rename archive file
+
+Change the file name and you code is ready for run. 
+`img.save("file.png")`
 
 ## Customized usage with qr-code.py
 
-You can find more info clicking [here](https://github.com/lincolnloop/python-qrcode).
+You can find more information by clicking [here](https://github.com/lincolnloop/python-qrcode).
