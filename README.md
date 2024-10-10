@@ -3,7 +3,7 @@
 The 'qr-code.py' archive was forked of [lincolnloop repository](https://github.com/lincolnloop/python-qrcode). 
 On the other hand, the 'qrcode.py' was made from previous testing on qrcode library.
 
-## Simple usage
+## Simple usage with qrcode.py
 
 ### Place you data
 
@@ -32,3 +32,11 @@ Note: You can change size (the default is 8). Try by yourself.
 ### Rename archive file
 
 Finally, you need to change the file name and you code is ready for run. 
+
+
+## Simple usage with qr-code.py
+
+
+
+## Customized usage with qr-code.py
+
